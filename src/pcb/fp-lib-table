@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name S2B-PH-SM4-TB_LF__SN_)(type Legacy)(uri "$(KIPRJMOD)/footprints/S2B-PH-SM4-TB_LF__SN_/S2B-PH-SM4-TB_LF__SN_.mod")(options "")(descr ""))
+  (lib (name JS102011SAQN)(type Legacy)(uri "$(KIPRJMOD)/footprints/JS102011SAQN/JS102011SAQN.mod")(options "")(descr ""))
+  (lib (name Misc)(type KiCad)(uri "$(KIPRJMOD)/footprints/Misc.pretty")(options "")(descr ""))
+  (lib (name 10118193-0001LF)(type Legacy)(uri "$(KIPRJMOD)/footprints/10118193-0001LF/10118193-0001LF.mod")(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri "$(KIPRJMOD)/footprints/EVQ-P7C01P/SamacSys_Parts.mod")(options "")(descr ""))
+  (lib (name M20-7810445)(type Legacy)(uri "$(KIPRJMOD)/footprints/M20-7810445/M20-7810445.mod")(options "")(descr ""))
+  (lib (name mcp)(type KiCad)(uri "$(KIPRJMOD)/footprints/UL_MCP73831T2ACIOT/KiCAD/2019-03-28_23-58-03/footprints.pretty")(options "")(descr ""))
+  (lib (name tpa)(type KiCad)(uri "$(KIPRJMOD)/footprints/UL_TPA6211A1DGNR/KiCAD/2019-03-28_23-53-15/footprints.pretty")(options "")(descr ""))
+  (lib (name attiny)(type KiCad)(uri "$(KIPRJMOD)/footprints/UL_ATTINY8520SU/KiCAD/2019-03-30_02-10-41/footprints.pretty")(options "")(descr ""))
+)

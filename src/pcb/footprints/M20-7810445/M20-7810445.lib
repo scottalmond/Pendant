@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model M20-7810445
+#/630348/125378/2.37/8/4/Connector
+DEF M20-7810445 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "M20-7810445" 650 200 50 H V L CNN
+F2 "M207810445" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/M20-7810445.pdf" 650 0 50 H I L CNN
+F4 "Headers & Wire Housings 4+4 DIL 2.54MM L/P SMT SKT" 650 -100 50 H I L CNN "Description"
+F5 "3.7" 650 -200 50 H I L CNN "Height"
+F6 "855-M20-7810445" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M20-7810445" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "HARWIN" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "M20-7810445" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 3 3 0 -100 200 R 50 50 0 0 B
+X 5 5 0 -200 200 R 50 50 0 0 B
+X 7 7 0 -300 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+X 4 4 800 -100 200 L 50 50 0 0 B
+X 6 6 800 -200 200 L 50 50 0 0 B
+X 8 8 800 -300 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

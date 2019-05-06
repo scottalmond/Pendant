@@ -1,0 +1,35 @@
+For Qty 25
+Processor             25x  $1.07ea@25  ATTINY85-20SU-ND       https://www.digikey.com/product-detail/en/ATTINY85-20SU/ATTINY85-20SU-ND/735470
+DC Power Switch       25x  $0.56ea@25  JS102011SAQN           https://www.digikey.com/product-detail/en/JS102011SAQN/401-1999-1-ND/1640114
+Button                25x  $0.37ea@25  P16765CT-ND            https://www.digikey.com/product-detail/en/EVQ-P7C01P/P16765CT-ND/4429458
+Battery 400mAh        25x  $4.95ea@25  PRT-13851              https://www.digikey.com/product-detail/en/PRT-13851/1568-1493-ND/6605199
+Speaker 8ohm          25x  $2.49ea@25  SP-4005-1              https://www.digikey.com/product-detail/en/SP-4005-1/433-1152-ND/6562951
+Audio Amp             25x  $0.79ea@25  TPA6211A1DGNR          https://www.digikey.com/product-detail/en/TPA6211A1DGNR/296-26889-1-ND/2255205
+LED, 10 pack         30x   $5.95ea@1   2759                   https://www.digikey.com/product-detail/en/adafruit-industries-llc/2759/1528-1710-ND/6134707
+Battery Charge Chip   25x  $0.48ea@25  MCP73831T-2ACI/OT      https://www.digikey.com/product-detail/en/microchip-technology/MCP73831T-2ACI-OT/MCP73831T-2ACI-OTCT-ND/1979802
+Program Header 2x4    25x  $1.17ea@1   M20-7810445            https://www.digikey.com/product-detail/en/M20-7810445/952-3209-ND/6564945
+JST Header           50x   $0.55ea@10  S2B-PH-SM4-TB(LF)(SN)  https://www.digikey.com/product-detail/en/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/455-1749-1-ND/926846
+USB Micro Header      25x  $0.38ea@25  10118193-0001LF        https://www.digikey.com/product-detail/en/10118193-0001LF/609-4616-1-ND/2785380
+Resistor 805
+Capacitor 805
+
+to do:
+make schematic symbol for LED
+schematic/symbol for audio amp
+li-ion charger
+
+
+300px = 500 mA
+448 px = 400 mA
+1036 px = 0 mA
+
+1974 px = 2 kOhms
+1998 px = >? ohms
+2262 px = 17 kOhms
+
+288
+(1998-1974)/(x-2)=(2262-1974)/(17-2)
+(1998-1974)*(17-2)=(x-2)*(2262-1974)
+(1998-1974)*(17-2)/(2262-1974)=(x-2)
+(1998-1974)*(17-2)/(2262-1974)+2=x
+3.25

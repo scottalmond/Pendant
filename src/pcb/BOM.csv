@@ -1,0 +1,23 @@
+For production run of 25 units,,,,,
+,,,,,
+Function,Qty,Unit Price,Extended Price,Part #,URL
+JST Header,50,0.55,27.50,S2B-PH-SM4-TB(LF)(SN),https://www.digikey.com/product-detail/en/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/455-1749-1-ND/926846
+"LED, 10 pack",30,5.95,178.50,"2759, SK6812RGBW",https://www.digikey.com/product-detail/en/adafruit-industries-llc/2759/1528-1710-ND/6134707
+Processor,25,1.07,26.75,ATTINY85-20SU-ND,https://www.digikey.com/product-detail/en/ATTINY85-20SU/ATTINY85-20SU-ND/735470
+DC Power Switch,25,0.56,14.00,JS102011SAQN,https://www.digikey.com/product-detail/en/JS102011SAQN/401-1999-1-ND/1640114
+Button,25,0.37,9.25,EVQ-P7C01P,https://www.digikey.com/product-detail/en/EVQ-P7C01P/P16765CT-ND/4429458
+Battery 400mAh,25,4.95,123.75,PRT-13851,https://www.digikey.com/product-detail/en/PRT-13851/1568-1493-ND/6605199
+Speaker 8ohm,25,2.49,62.25,SP-4005-1,https://www.digikey.com/product-detail/en/SP-4005-1/433-1152-ND/6562951
+Audio Amp,25,0.79,19.75,TPA6211A1DGNR,https://www.digikey.com/product-detail/en/TPA6211A1DGNR/296-26889-1-ND/2255205
+Battery Charge Chip,25,0.48,12.00,MCP73832T-2ACI/OT,https://www.digikey.com/product-detail/en/microchip-technology/MCP73832T-2ACI-OT/MCP73832T-2ACI-OTCT-ND/1979805
+Program Header 2x4,25,1.17,29.25,M20-7810445,https://www.digikey.com/product-detail/en/M20-7810445/952-3209-ND/6564945
+USB Micro Header,25,0.38,9.50,10118193-0001LF,https://www.digikey.com/product-detail/en/10118193-0001LF/609-4616-1-ND/2785380
+3.9k Ohms,100,0.0085,0.85, RMCF0805JT3K90 ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT3K90/RMCF0805JT3K90CT-ND/1942569
+27k Ohms,100,0.0085,0.85, RMCF0805JT27K0 ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT27K0/RMCF0805JT27K0CT-ND/1942583
+"4.7 uF, ~4 micro",100,0.044,4.40, CL21A475KQFNNNG ,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21A475KQFNNNG/1276-6465-1-ND/5958093
+"4.7 nF, ~4 nano",100,0.0238,2.38, CL21B472KBANNNC ,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B472KBANNNC/1276-1155-1-ND/3889241
+"1 uF, 1 micro",100,0.0352,3.52, CL21B105KAFNNNE ,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B105KAFNNNE/1276-1066-1-ND/3889152
+"47 uF, ~40 micro",25,0.339,8.48, GRM21BC80G476ME15L ,https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM21BC80G476ME15L/490-9954-1-ND/5026421
+,,,,,
+Unit Cost,,,21.32,,
+Total Price,,,532.98,,
